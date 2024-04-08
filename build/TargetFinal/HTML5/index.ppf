@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="TargetFinal" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="First_Topic.htm">
+    
+    <topic>
+      First_Topic.htm
+    </topic>
+    
+    <topic>
+      Com.htm
+    </topic>
+    
+    <topic>
+      PaginaSemLayout.htm
+    </topic>
+    
+    <topic>
+      Variável.htm
+    </topic>
+    
+    <topic>
+      new_topic1.htm
+    </topic>
+    
+    <topic>
+      Imagem.htm
+    </topic>
+    
+    <topic>
+      DropDrop.htm
+    </topic>
+    
+    <topic>
+      ComSnippet.htm
+    </topic>
+    
+    <topic>
+      new_topic.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        pt_BR
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+  </filenamemap>
+</ppfml>

@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","ComSnippet"]],"1":[[" ","ComSnippet"]],"2":[[" ","Oi tudo bem? Aqui está o snippet: "," ","Olá, esse é meu conteúdo."," ","Bonito demais!!!!!"," ","Aqui já é fora."]],"id":"7"})
