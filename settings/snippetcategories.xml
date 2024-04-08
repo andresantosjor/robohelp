@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+  <category name="default">
+    <snippet>../contents/PaginaSemLayout.htm</snippet>
+    <snippet>../contents/Imagem.htm</snippet>
+    <snippet>../contents/assets/images/Screenshot_1.png</snippet>
+    <snippet>../contents/Com.htm</snippet>
+    <snippet>../contents/Variável.htm</snippet>
+    <snippet>../contents/assets/snippets/SnippetBasico.hts</snippet>
+    <snippet>../contents/ComSnippet.htm</snippet>
+    <snippet>../contents/new_topic.htm</snippet>
+    <snippet>../contents/new_topic1.htm</snippet>
+    <snippet>../contents/DropDrop.htm</snippet>
+  </category>
+</categories>

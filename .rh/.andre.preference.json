@@ -1,0 +1,119 @@
+{
+  "recent-files::internal:document": [{
+    "title": "DropDrop",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/contents/DropDrop.htm",
+    "pinned": false,
+    "time": "Apr 7, 10:03 PM"
+  }, {
+    "title": "PaginaSemLayout",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/contents/PaginaSemLayout.htm",
+    "pinned": false,
+    "time": "Apr 7, 10:03 PM"
+  }, {
+    "title": "new_topic1",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/contents/new_topic1.htm",
+    "pinned": false,
+    "time": "Apr 7, 10:01 PM"
+  }, {
+    "title": "new_topic",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/contents/new_topic.htm",
+    "pinned": false,
+    "time": "Apr 7, 10:00 PM"
+  }, {
+    "title": "ComSnippet",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/contents/ComSnippet.htm",
+    "pinned": false,
+    "time": "Apr 7, 9:59 PM"
+  }, {
+    "title": "SnippetBasico",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/contents/assets/snippets/SnippetBasico.hts",
+    "pinned": false,
+    "time": "Apr 7, 9:59 PM"
+  }, {
+    "title": "Variável",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/contents/Variável.htm",
+    "pinned": false,
+    "time": "Apr 7, 9:58 PM"
+  }, {
+    "title": "Com",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/contents/Com.htm",
+    "pinned": false,
+    "time": "Apr 7, 9:54 PM"
+  }, {
+    "title": "Imagem",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/contents/Imagem.htm",
+    "pinned": false,
+    "time": "Apr 7, 9:52 PM"
+  }, {
+    "title": "HTML5",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/publish/presets/HTML5.preset",
+    "pinned": false,
+    "time": "Apr 7, 9:50 PM"
+  }],
+  "recent-files::external:hyperlink": [{
+    "title": "www.google.com",
+    "path": "https://www.google.com.br",
+    "pinned": false,
+    "time": "Apr 7, 9:48 PM"
+  }],
+  "recent-files::internal:hyperlink": [{
+    "title": "Com",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/contents/Com.htm",
+    "pinned": false,
+    "time": "Apr 7, 10:05 PM"
+  }, {
+    "title": "new_topic",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/contents/new_topic.htm",
+    "pinned": false,
+    "time": "Apr 7, 10:05 PM"
+  }, {
+    "title": "ComSnippet",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/contents/ComSnippet.htm",
+    "pinned": false,
+    "time": "Apr 7, 10:05 PM"
+  }, {
+    "title": "DropDrop",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/contents/DropDrop.htm",
+    "pinned": false,
+    "time": "Apr 7, 10:05 PM"
+  }, {
+    "title": "Imagem",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/contents/Imagem.htm",
+    "pinned": false,
+    "time": "Apr 7, 10:05 PM"
+  }, {
+    "title": "new_topic1",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/contents/new_topic1.htm",
+    "pinned": false,
+    "time": "Apr 7, 10:05 PM"
+  }, {
+    "title": "Variável",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/contents/Variável.htm",
+    "pinned": false,
+    "time": "Apr 7, 10:05 PM"
+  }, {
+    "title": "PaginaSemLayout",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/contents/PaginaSemLayout.htm",
+    "pinned": false,
+    "time": "Apr 7, 9:51 PM"
+  }, {
+    "title": "First_Topic",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/contents/First_Topic.htm",
+    "pinned": false,
+    "time": "Apr 7, 9:48 PM"
+  }],
+  "generate.outputs": {
+    "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/publish/presets/HTML5.preset": {
+      "exists": true,
+      "path": "C:/Users/andre/Documents/My RoboHelp Projects/outputs/TargetFinal/HTML5/index.htm",
+      "time": "2024-04-07T22:07:21-03:00",
+      "logFile": "C:/Users/andre/AppData/Local/Temp/RHTMP/HTML5.ehtml"
+    }
+  },
+  "recent-files::internal:image": [{
+    "title": "Screenshot_1",
+    "path": "C:/Users/andre/Documents/My RoboHelp Projects/TargetFinal/contents/assets/images/Screenshot_1.png",
+    "pinned": false,
+    "time": "Apr 7, 9:53 PM"
+  }]
+}
